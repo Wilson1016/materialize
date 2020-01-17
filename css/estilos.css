@@ -1,0 +1,28 @@
+body{
+  background-image: url("../img/Riberalta 3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo1{
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  display: inline-block;
+}
+nav{
+  background-color: #5499c7;
+  height: 150px;
+  display: inline-block;
+
+}
+h1{
+  width: 100%;
+  color: white;
+
+}
+.slogan{
+  margin: -34px;
+  height: 80px;
+}
